@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Mi Blog</title>
+    <link>https://github.com/<tu_usuario>/<tu_repositorio></link>
+    <description>Un blog sencillo con artículos de prueba.</description>
+    <language>es</language>
+    <lastBuildDate>2024-03-13</lastBuildDate>
+    <item>
+        <title>Título del artículo 1</title>
+        <link>https://github.com/<tu_usuario>/<tu_repositorio>/blob/main/articulo1.html</link>
+        <description>Descripción del artículo 1...</description>
+        <pubDate>2024-03-13</pubDate>
+    </item>
+    <item>
+        <title>Título del artículo 2</title>
+        <link>https://github.com/<tu_usuario>/<tu_repositorio>/blob/main/articulo2.html</link>
+        <description>Descripción del artículo 2...</description>
+        <pubDate>2024-03-12</pubDate>
+    </item>
+    <item>
+        <title>Título del artículo 3</title>
+        <link>https://github.com/<tu_usuario>/<tu_repositorio>/blob/main/articulo3.html</link>
+        <description>Descripción del artículo 3...</description>
+        <pubDate>2024-03-11</pubDate>
+    </item>
+</channel>
+</rss>
